@@ -1,0 +1,38 @@
+
+body {
+
+    background-color: #DBE4C6;
+
+}
+
+hr {
+
+    border-style: dotted none none;
+    border-color: GREY;
+    border-width: 5px;
+    width: 7%;
+    
+}
+
+
+
+img {
+
+    height: 250px;
+    width: 250px;
+    
+}
+
+h1{
+    color:rgb(43, 168, 147);
+}
+
+h3{
+    color: black;
+    background-color: #94AF9F;
+}
+
+p,ul,ol,table,form {
+    background-color: #BBD6B8;
+} 
+
